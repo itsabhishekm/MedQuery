@@ -1,0 +1,4 @@
+venv/
+logs/
+rag_Chatbot.egg-info/
+.env
